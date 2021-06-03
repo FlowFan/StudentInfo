@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentInfo</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="_cloud">Liu Yi</string>
+    <string name="_bluetooth">Chen Er</string>
+    <string name="_gesture">Zhang San</string>
+    <string name="_gps">Li Si</string>
+    <string name="_system_info">Wang Wu</string>
+    <string name="_internet">Zhao Liu</string>
+    <string name="_language">Sun Qi</string>
+    <string name="_set_notifycation">Zhou Ba</string>
+</resources>

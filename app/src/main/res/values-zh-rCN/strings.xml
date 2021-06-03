@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学生信息</string>
+    <string name="menu_settings">设置</string>
+    <string name="hello_world">你好，世界!</string>
+    <string name="_cloud">刘一</string>
+    <string name="_bluetooth">陈二</string>
+    <string name="_gesture">张三</string>
+    <string name="_gps">李四</string>
+    <string name="_system_info">王五</string>
+    <string name="_internet">赵六</string>
+    <string name="_language">孙七</string>
+    <string name="_set_notifycation">周八</string>
+</resources>
